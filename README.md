@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Talantone
 - 👀 I’m interested in Backend development
-- 🌱 I’m currently learning async gRPC in Python 
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me Telegram: https://t.me/talantoner
 
 <!---
